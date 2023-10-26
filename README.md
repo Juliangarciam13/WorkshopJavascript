@@ -15,5 +15,5 @@ Este repositorio contiene el código fuente de una aplicación web diseñada par
 2. Navega hasta la carpeta del proyecto: cd WorkshopJavascript
 3. Abre el archivo index.html con tu navegador preferido.
 
-## Preentadop por:
+## Presentado por:
 - Julian Garcia.
